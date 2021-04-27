@@ -4,8 +4,8 @@ Collection of buildings for anyone to try and it has 3 buildings and 2 blueprint
 Building 1 - Cozy Building
 A nice little building to rent
 
-Building 2 - TBD
-TBD DESCRIPTION
+Building 2 - Cheap but effective Building
+Has 2 3 seater offices, each with a leader office.
 
 Building 3 - TBD
 TBD DESCRIPTION
