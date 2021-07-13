@@ -16,8 +16,11 @@ Just a basic 1 floor building.
 Building 5 - Mad Building
 The abomination, in its current stages.
 
+
 Installation
 
 1 - Extract the folders from the .zip
+
 2 - For buildings 1, 2 and 3, move their folders to the Buildings folder inside the Software Inc directory.
+
 3 - For buildings 4 and 5, move their folder to the Blueprints folder inside the Software Inc directory.
